@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "3LJGNyg2Q4FZOnrzFJvRcnoHkJDXoDZIwSJCCJj9Qjc=",
+  "Source": "EmailProducer",
+  "BasePath": "_content/EmailProducer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
